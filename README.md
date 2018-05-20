@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 titanic
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# DataScienceProjects
+>>>>>>> 72236b37947103fde21b6628407a1ed647dea12d
